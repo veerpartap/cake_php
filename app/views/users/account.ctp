@@ -1,5 +1,5 @@
 <h4> My Account </h4>
-<table border="1">
+<table border="0" background="none">
 <tr>
   <th>Name</th>
   <th>Telephone</th>
