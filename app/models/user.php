@@ -1,5 +1,5 @@
 <?php
-
+/*	Author name : Veerpartap Singh	*/
 class UserModel extends AppModel {
 
 	var $name= "user";	
