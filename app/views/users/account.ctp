@@ -1,9 +1,11 @@
-<h4> My Account </h4>
+====================================================================
+	<h4> My Account </h4>
+====================================================================
 <table border="0" background="none">
 <tr>
   <th>Name</th>
   <th>Telephone</th>
-  <th>Telephone</th>
+  <th>Mobile</th>
 </tr>
 <tr>
   <td>Bill Gates</td>
@@ -12,7 +14,10 @@
 </tr>
 </table>
 
-<h4>Account Details:</h4>
+
+====================================================================
+	<h4>Account Details:</h4>
+====================================================================
 <table border="1">
 <tr>
   <td>Edit Profile :</td>
