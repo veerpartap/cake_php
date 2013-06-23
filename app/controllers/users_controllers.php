@@ -35,6 +35,14 @@ class UserControllers extends AppControllers {
 		$data = $this->Card->findById($id);
 		$this->set('data',$data);
 	}
+
+	// function used to view details of the user bank account 
+	public function account($id)
+	{
+		$this->layout = "default";
+		$data = $this->Bank->findById($id);
+		$this->set('data',$data);
+	}
 }
 
 
