@@ -26,14 +26,6 @@ class UserControllers extends AppControllers {
 		$this->set('data',$data);
 	}
 
-
-	// function used to view user credit card details page
-	public function card($id)
-	{
-		$this->layout = "default";
-		$data = $this->Card->findById($id);
-		$this->set('data',$data);
-	}
 }
 
 
