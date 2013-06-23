@@ -18,6 +18,13 @@ class UserControllers extends AppControllers {
 		$this->set('data',$data);
 	}
 
+	// function used to show users account details page
+	public function detail($id)
+	{
+		$this->layout = "default";
+		$data = $this->User->findById($id);
+		$this->set('data',$data);
+	}
 
 }
 
