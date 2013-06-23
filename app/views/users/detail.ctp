@@ -1,5 +1,5 @@
 <?php
-	echo "User details page";
+	echo "<h3>	<i>User details page</i>	</h3>";
 ?>
 <h4>Kindly keep this inforation confidential :</h4>
 <table border="1">
