@@ -14,6 +14,11 @@ class UserModel extends AppModel {
 	{
 		// function used to validate email address 
 	}
+
+	public function validUsername()
+	{
+		// function used to validate username for unique & valid username without having special characters like*'@-_–!"#€%&/()=?+`´  
+	}
 }
 
 ?>
