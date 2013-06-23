@@ -19,6 +19,13 @@ class UserControllers extends AppControllers {
 	}
 
 
+	public function detail($id)
+	{
+		$this->layout = "default";
+		$data = $this->User->findById($id);
+		$this->set('data',$data);
+	}
+
 }
 
 
