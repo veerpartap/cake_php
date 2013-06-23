@@ -5,6 +5,7 @@ class UserControllers extends AppControllers {
 
 	var $name = "users";
 	var $uses = "user";
+	var $component = arrary("Paypal");
 	
 	public function __beforefilter() 
 	{
