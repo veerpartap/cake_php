@@ -27,6 +27,11 @@ class UserControllers extends AppControllers {
 		// This function is used to edit the users details who exists in our database or else system will through and error
 	}
 
+	public function delete($id=null) 
+	{
+		// This function is used to delete user details from database having id as $id 
+	}
+
 	public function index()
 	{
 		$this->layout = "default";
