@@ -17,6 +17,11 @@ class CardModel extends AppModel
 		// this function will validate the data for invalid data entered by user
 	}
 
+	public function checkValidEmail()
+	{
+		// this function will validate the email address entered by user whether it is correct or not
+	}
+
 }
 
 
