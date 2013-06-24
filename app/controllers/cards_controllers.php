@@ -22,6 +22,13 @@ class CardControllers extends AppController
 		// this function is used to add new credit card details
 	}
 
+
+	public function edit_card()
+	{
+		// this function is used to edit cards details of customers 
+	}
+
+
 }
 
 
