@@ -21,6 +21,12 @@ class UserControllers extends AppControllers {
 		// This function is used to add new user in the system
 	}
 
+
+	public function edit($id=null) 
+	{
+		// This function is used to edit the users details who exists in our database or else system will through and error
+	}
+
 	public function index()
 	{
 		$this->layout = "default";

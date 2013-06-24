@@ -1,10 +1,8 @@
 <?php
 
 /*
-
-Author : Veerpartap Singh
-Created: 24-06-2013
-
+	Author : Veerpartap Singh
+	Created: 24-06-2013
 */
 
 class PaymentController extends AppController 
@@ -23,6 +21,11 @@ class PaymentController extends AppController
 		// this function gets executed when user is making payment for subscription plan 
 	}
 
+
+	public function saveTransaction()
+	{
+		// this function will save the transaction of the payment made by user in database and send an email to both admin and customer 
+	}
 }
 
 
