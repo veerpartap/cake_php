@@ -1,5 +1,11 @@
 <?php
 
+/*
+
+Author : Veerpartap Singh
+Created: 24-06-2013
+
+*/
 
 class PaymentController extends AppController 
 {
