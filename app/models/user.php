@@ -20,6 +20,12 @@ class UserModel extends AppModel {
 	{
 		// function used to validate username for unique & valid username without having special characters like*'@-_–!"#€%&/()=?+`´  
 	}
+
+	public function __beforeSave() 
+	{
+		// function is called before making a new entry in the database
+	}
+
 }
 
 ?>
