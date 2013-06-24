@@ -15,6 +15,11 @@ class UserControllers extends AppControllers {
 	{
 		
 	}
+	
+	public function add() 
+	{
+		// This function is used to add new user in the system
+	}
 
 	public function index()
 	{

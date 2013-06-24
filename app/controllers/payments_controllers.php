@@ -17,6 +17,12 @@ class PaymentController extends AppController
 		// this function gets executed before any action of the payment controller gets executed
 	}
 
+
+	public function make_payment()
+	{
+		// this function gets executed when user is making payment for subscription plan 
+	}
+
 }
 
 

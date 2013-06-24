@@ -4,10 +4,7 @@
 Author :	Veerpartap Singh
 Created:	24-06-2013
 
-
 */
-
-
 
 class CardControllers extends AppController 
 {
@@ -18,6 +15,13 @@ class CardControllers extends AppController
 	{
 		// this function gets executed before any action of the cards controller gets executed
 	}
+
+
+	public function add_new_card()
+	{
+		// this function is used to add new credit card details
+	}
+
 }
 
 
