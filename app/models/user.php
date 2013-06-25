@@ -26,6 +26,12 @@ class UserModel extends AppModel {
 		// function is called before making a new entry in the database
 	}
 
+	public function user_details($id=null) 
+	{
+		// this function will search the users account details with particular id
+	}
+
+
 }
 
 ?>
