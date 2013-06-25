@@ -1,6 +1,8 @@
 <?php
+
 /*	Author name : Veerpartap Singh	*/
 /*	Created Date : 23-06-2013	 */
+
 class UserModel extends AppModel {
 
 	var $name= "user";	
