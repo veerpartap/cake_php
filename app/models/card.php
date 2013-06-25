@@ -22,6 +22,12 @@ class CardModel extends AppModel
 		// this function will validate the email address entered by user whether it is correct or not
 	}
 
+
+	public function checkValidUsername()
+	{
+		// this function will validate the username whether it contains special characters or not 
+	}
+
 }
 
 

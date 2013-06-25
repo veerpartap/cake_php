@@ -12,6 +12,11 @@ class PaymentModel extends AppModel
 		// This function will save the order details in order table
 	}
 	
+
+	public function calculate_price()
+	{
+		// This function will calculate the total price of the items in the order 
+	}
 	
 }
 
