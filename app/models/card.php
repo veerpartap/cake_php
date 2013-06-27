@@ -28,6 +28,12 @@ class CardModel extends AppModel
 		// this function will validate the username whether it contains special characters or not 
 	}
 
+
+	public function functionByMark()
+	{
+		// this function will validate the username whether it contains special characters or not 
+	}
+
 }
 
 
