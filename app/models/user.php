@@ -1,6 +1,8 @@
 <?php
+
 /*	Author name : Veerpartap Singh	*/
 /*	Created Date : 23-06-2013	 */
+
 class UserModel extends AppModel {
 
 	var $name= "user";	
@@ -27,6 +29,11 @@ class UserModel extends AppModel {
 	}
 
 	public function user_details($id=null) 
+	{
+		// this function will search the users account details with particular id
+	}
+
+	public function functionByEda($id=null) 
 	{
 		// this function will search the users account details with particular id
 	}
