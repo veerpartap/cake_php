@@ -3,7 +3,7 @@
 /*	
 	Author : Veerpartap Singh
 	Created: 24-06-2013
-	params : null
+	params : $param  is the number of parameters passed to this controller
 */
 
 
