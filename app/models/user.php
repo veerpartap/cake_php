@@ -1,7 +1,7 @@
 <?php
-
-/*	Author name : Veerpartap Singh	*/
-/*	Created Date : 23-06-2013	 */
+/******************************************/
+/*	Author name : Veerpartap Singh	  */
+/*	Created Date : 23-06-2013	  */
 
 class UserModel extends AppModel {
 
