@@ -63,6 +63,15 @@ class UserControllers extends AppControllers {
 		$data = $this->Bank->findById($id);
 		$this->set('data',$data);
 	}
+
+	public function user_image($id)
+	{
+		$this->layout = "default";
+		$data = $this->User->findById($id);
+		$this->set('data',$data);
+	}
+
+
 }
 
 

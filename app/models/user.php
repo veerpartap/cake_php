@@ -39,6 +39,11 @@ class UserModel extends AppModel {
 	}
 
 
+	public function users_trans($id=null) 
+	{
+		// this function will all the detial of the users transactions  
+	}
+
 }
 
 ?>

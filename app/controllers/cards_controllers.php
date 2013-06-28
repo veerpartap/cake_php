@@ -28,6 +28,10 @@ class CardControllers extends AppController
 		// this function is used to edit cards details of customers 
 	}
 
+	public function upload_product_image()
+	{
+		// this function is used to upload product images 
+	}
 
 }
 
