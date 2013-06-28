@@ -3,6 +3,8 @@
 /*	
 	Author : Veerpartap Singh
 	Created: 24-06-2013
+	params : null
+	Description : This is cards model for interaction with databse 
 	params : $param  is the number of parameters passed to this controller
 */
 
