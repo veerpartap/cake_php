@@ -1,5 +1,10 @@
 <?php
 
+/*
+	Author : Veerpartap Singh
+*/
+
+
 class PaymentModel extends AppModel 
 {
 
