@@ -3,6 +3,7 @@
 /*
 	Author : Veerpartap Singh
 	Created: 30-June-2013
+	param  : @params is the numbers of parameters which needs to pass into that particular function
 */
 
 
