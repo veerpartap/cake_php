@@ -2,6 +2,7 @@
 
 /*
 	Author : Veerpartap Singh
+	param  : @params is the numbers of parameters which needs to pass into that particular function
 */
 
 
