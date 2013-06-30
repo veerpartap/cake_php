@@ -44,6 +44,11 @@ class UserModel extends AppModel {
 		// this function will all the detial of the users transactions  
 	}
 
+	public function majorFeature($id=null) 
+	{
+		// this function will all the detial of the users transactions  
+	}
+
 }
 
 ?>
