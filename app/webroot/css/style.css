@@ -8,3 +8,13 @@ a.login{text-decoration:none;font-weight:bold:font-size:20px;}
 
 ====================================================
 p.right{width:200px;height:560px;padding:6px;margin:3px;}
+
+.addon-store .container{width:960px}
+.addon-store .pagehead h1{display:inline-block}
+.addon-store .pagehead 
+.electrocat-small{position:absolute;bottom:-7px;right:0}
+.addon-store .addons-nav{position:absolute;bottom:0;right:300px}
+.addon-store .addons-nav li,.addon-store .addons-nav a{display:inline-block}
+.addon-store .addons-nav a{padding:0 0 14px;margin:0 10px 0;border-bottom:3px solid transparent;color:#666;font-size:14px;text-decoration:none}
+.addon-store .addons-nav a.selected{color:#333;font-weight:bold;border-bottom-color:#d26911}
+.addon-store .addon-details{font-size:16px;padding:14px 0}
