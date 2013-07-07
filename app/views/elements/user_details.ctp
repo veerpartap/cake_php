@@ -1,27 +1,6 @@
-====================================================================
-	<h4> My Account </h4>
-====================================================================
-<table border="0" background="none">
-<tr>
-  <th>Name</th>
-  <th>Telephone</th>
-  <th>Mobile</th>
-</tr>
-<tr>
-  <td>Bill Gates</td>
-  <td>555 77 854</td>
-  <td>555 77 855</td>
-</tr>
-</table>
-
-
-====================================================================
-	<h4>Account Details:</h4>
-====================================================================
-<table border="1">
-<tr>
-  <td>Edit Profile :</td>
-  <td>My Credit Card :</td>
-  <td>My Plan :</td>
-</tr>
-</table>
+<p><b>This text is bold</b></p>
+<p><strong>This text is strong</strong></p>
+<p><i>This text is italic</i></p>
+<p><em>This text is emphasized</em></p>
+<p><code>This is computer output</code></p>
+<p>This is<sub> subscript</sub> and <sup>superscript</sup></p>
